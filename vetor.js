@@ -4,11 +4,11 @@ let valor_cidade = []
 
 function inserir(){
     let cidade = document.getElementById('cidade').value
-    valor_cidade.push('cidade')
+    valor_cidade.push(cidade)
     console.log(valor_cidade)
 }
 
 function excluir(){
-    valor_cidade.pop('cidade')
+    valor_cidade.pop()
     console.log(valor_cidade)
 }
