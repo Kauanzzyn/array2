@@ -1,12 +1,16 @@
 body{
-    background-color: #5a5c75;
-    color: white;
+    background-color: #b8faff;
+    color: #0e8d94;
 }
 
-input{
+button{
     border-color: white;
+    color: #0e8d94;
 }
 #res{
     font-size: 1.6rem;
-    color: white;
+    color: #0e8d94;
+}
+input{
+    background-color: #0e8d94;
 }
